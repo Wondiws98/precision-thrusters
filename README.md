@@ -7,20 +7,20 @@ The purpose is to provide super precise engines.<br> For cases where "Actual Mic
 
 Uses stocks asset so there are no models or textures that comes with this mod. (ultra light)
 
-Compatible with Nertea's Restock.
+Compatible with Nertea's [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/).
 
 ## Stock Monopropellant Fuel Engines
-(without Restock installed)
+(without [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/) installed)
 
 <img width="574" height="284" alt="image" src="https://github.com/user-attachments/assets/cb29f6bc-ba8a-411b-a6d3-f537a775596b" />
 
-## Restock Monopropellant Fuel Engines
-(with Restock installed)
+## [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/) Monopropellant Fuel Engines
+(with [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/) installed)
 
 <img width="574" height="284" alt="image" src="https://github.com/user-attachments/assets/518d1141-ec95-4f5c-97cf-f7acfcc6c066" />
 
 ## Compatibilities:
-1. [Restock](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
+1. [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/)
 
 ## Installation:
 1. Download the .zip archive file from the [release page](https://github.com/Wondiws98/sspx-viewing-cupola-crew-report/releases/tag/0.2).
@@ -28,3 +28,6 @@ Compatible with Nertea's Restock.
 
 ## Uninstallation:
 1. Delete the "PrecisionThrusters" folder located within your GameData folder.
+
+
+###### Linking [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/) again just in case.

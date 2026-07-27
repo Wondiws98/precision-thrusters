@@ -7,7 +7,7 @@ The purpose is to provide super precise engines.<br> For cases where "Actual Mic
 
 Uses stock assets so there are no models or textures that comes with this mod. (ultra light)
 
-Compatible with Nertea's [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/).
+Compatible with Nertea's [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/) and [VABOrganizer](https://forum.kerbalspaceprogram.com/topic/225794-112x-vab-organizer-july-21/).
 
 ## Stock Monopropellant Fuel Engines
 (without [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/) installed)
@@ -21,9 +21,10 @@ Compatible with Nertea's [Restock](https://forum.kerbalspaceprogram.com/topic/18
 
 ## Compatibilities:
 1. [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/)
+2. [VABOrganizer](https://forum.kerbalspaceprogram.com/topic/225794-112x-vab-organizer-july-21/)
 
 ## Installation:
-1. Download the .zip archive file from the [release page](https://github.com/Wondiws98/sspx-viewing-cupola-crew-report/releases/tag/0.2).
+1. Download the .zip archive file from the [release page](https://github.com/Wondiws98/precision-thrusters/releases/tag/0.2).
 2. Drag and drop the content of the archive into your KSP install folder.
 
 ## Uninstallation:

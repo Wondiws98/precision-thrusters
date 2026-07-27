@@ -5,7 +5,7 @@ The purpose is to provide super precise engines.<br> For cases where "Actual Mic
 
 **This does NOT modify the existing RCS thrusters, it adds new modified ones.**
 
-Uses stocks asset so there are no models or textures that comes with this mod. (ultra light)
+Uses stock assets so there are no models or textures that comes with this mod. (ultra light)
 
 Compatible with Nertea's [Restock](https://forum.kerbalspaceprogram.com/topic/182679-1125-restock-revamping-ksps-art-august-28/).
 
